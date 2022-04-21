@@ -48,7 +48,8 @@
 
 -   Now you are connected to the machine whose Ip address would be visible on Ubuntu terminal
 
-   # Run the following commands to setup `Docker`
+
+    # Run the following commands to setup `Docker`
 
     -   `sudo apt update`
 
@@ -85,6 +86,7 @@
     -   `docker compose version`
 
     -   `cd ~/.docker/cli-plugins`
+
 
     # Run the following commands to setup `Judge0`
 
